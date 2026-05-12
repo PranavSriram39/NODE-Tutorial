@@ -87,9 +87,9 @@ NODE-Tutorial/
 ---
 
 ## 🚀 Getting Started
-
-### 1️⃣ Clone the repository
 ```bash
+### 1️⃣ Clone the repository
+
 git clone https://github.com/PranavSriram39/NODE-Tutorial.git 
 
 2️⃣ Navigate into the project
