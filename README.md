@@ -91,3 +91,30 @@ NODE-Tutorial/
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/PranavSriram39/NODE-Tutorial.git 
+
+2️⃣ Navigate into the project
+cd NODE-Tutorial
+3️⃣ Install dependencies
+npm install
+4️⃣ Run the server
+node index.js
+
+OR using nodemon (recommended for development):
+
+nodemon index.js
+🎯 Key Learning Outcomes
+
+After completing this project, you will understand:
+
+How Node.js works internally
+How Express simplifies backend development
+How routing works in APIs
+How middleware processes requests
+How to structure backend projects properly
+How REST APIs are designed in real-world applications
+📦 Prerequisites
+Node.js installed
+npm installed
+Basic JavaScript knowledge
+
+
