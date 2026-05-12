@@ -88,7 +88,7 @@ NODE-Tutorial/
 
 ## 🚀 Getting Started
 ```bash
-### 1️⃣ Clone the repository
+ 1️⃣ Clone the repository
 
 git clone https://github.com/PranavSriram39/NODE-Tutorial.git 
 
@@ -102,6 +102,7 @@ node index.js
 OR using nodemon (recommended for development):
 
 nodemon index.js
+```
 🎯 Key Learning Outcomes
 
 After completing this project, you will understand:
@@ -112,6 +113,8 @@ How routing works in APIs
 How middleware processes requests
 How to structure backend projects properly
 How REST APIs are designed in real-world applications
+
+
 📦 Prerequisites
 Node.js installed
 npm installed
